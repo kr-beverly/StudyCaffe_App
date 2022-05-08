@@ -16,7 +16,7 @@ public class Reservation extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_reservation);
 
-        //예약에서 home으로 넘어가는 버튼 연결
+        //예약에서 home으로 넘어가는 버튼연결
         btn_resevmovehome=findViewById(R.id.btn_resevmovehome);
         btn_resevmovehome.setOnClickListener(new View.OnClickListener() {
             @Override
