@@ -4,11 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android-Pratice/StudyApp/app/src/main/res/layout/activity_loginfrom.xml" value="0.221875" />
-        <entry key="..\:/Android-Pratice/StudyApp/app/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
-        <entry key="..\:/Users/tobi0/AndroidStudioProjects/Studycafe-App-master/app/src/main/res/layout/activity_loginfrom.xml" value="0.3018292682926829" />
-        <entry key="..\:/Users/tobi0/AndroidStudioProjects/Studycafe-App-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/tobi0/AndroidStudioProjects/Studycafe-App-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1415" />
-        <entry key="..\:/Users/tobi0/AndroidStudioProjects/Studycafe-App-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1415" />
+        <entry key="..\:/Android-Pratice/StudyApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android-Pratice/StudyApp/app/src/main/res/layout/activity_reservation.xml" value="0.25" />
+        <entry key="..\:/Android-Pratice/StudyApp/app/src/main/res/layout/activity_reservation2.xml" value="0.18489583333333334" />
+        <entry key="..\:/Android-Pratice/StudyApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.193" />
       </map>
     </option>
   </component>
