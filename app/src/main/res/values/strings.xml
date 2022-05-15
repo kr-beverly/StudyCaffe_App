@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Study App</string>
+    <!-- Strings related to login -->
+    <string name="prompt_id">ID</string>
+    <string name="prompt_password">Password</string>
+
+    <string name="action_move_sign_up">Sign Up</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="action_sign_up_short">Sign Up</string>
+
+    <string name="main_text">or</string>
+
+    <string name="action_move_sign_in">Sign In</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_in_short">Sign In</string>
+
+    <string name="action_move_sign_out">Sign out</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="action_sign_out_short">Sign out</string>
+
+    <string name="action_reservation">예약</string>
+    <string name="action_seat">자리</string>
+    <string name="action_voucher">이용권</string>
+    <string name="action_notice">게시판</string>
+
+    <string name="hint_sign_id">아이디를 입력하세요</string>
+    <string name="sign_id">아이디를 입력하세요</string>
+    <string name="hint_sign_password">패스워드를 입력하세요</string>
+    <string name="sign_password">패스워드를 입력하세요</string>
+    <string name="hint_sign_name">이름을 입력하세요</string>
+    <string name="sign_name">이름을 입력하세요</string>
+    <string name="hint_sign_birth">생년월일을 입력하세요</string>
+    <string name="sign_birth">생년월일을 입력하세요</string>
+    <string name="hint_sign_num">전화번호를 입력하세요</string>
+    <string name="sign_num">전화번호를 입력하세요</string>
+    <string name="hint_sign_email">이메일을 입력하세요</string>
+    <string name="sign_email">이메일을 입력하세요</string>
+    <string name="btn_sign">Complete</string>
+</resources>
