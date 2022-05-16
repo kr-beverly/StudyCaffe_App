@@ -32,8 +32,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name="vouchers" />
 
+=======
+>>>>>>> d2c78985a64aa9d44a1b5dd23458f9aa606664ae
     </application>
 
 </manifest>
