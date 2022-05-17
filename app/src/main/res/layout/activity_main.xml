@@ -51,16 +51,10 @@
             app:layout_constraintVertical_bias="0.26" />
 
         <Button
-<<<<<<< HEAD
             android:id="@+id/btn_voucher"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/action_voucher"
-=======
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="이용권"
->>>>>>> d2c78985a64aa9d44a1b5dd23458f9aa606664ae
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintHorizontal_bias="0.287"
             app:layout_constraintLeft_toLeftOf="parent"

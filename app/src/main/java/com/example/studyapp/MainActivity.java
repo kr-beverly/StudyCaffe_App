@@ -10,10 +10,7 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
 
     private Button btn_movereserv;
-<<<<<<< HEAD
     private Button btn_voucher;
-=======
->>>>>>> d2c78985a64aa9d44a1b5dd23458f9aa606664ae
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,7 +35,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent); //액티비티 이동
             }
         });
-<<<<<<< HEAD
 
         btn_voucher=findViewById(R.id.btn_voucher);
         btn_voucher.setOnClickListener(new View.OnClickListener() {
@@ -48,7 +44,5 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent); //액티비티 이동
             }
         });
-=======
->>>>>>> d2c78985a64aa9d44a1b5dd23458f9aa606664ae
     }
 }
