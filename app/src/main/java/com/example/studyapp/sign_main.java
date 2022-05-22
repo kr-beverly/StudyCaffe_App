@@ -9,7 +9,11 @@ import android.widget.Button;
 
 public class sign_main extends AppCompatActivity {
 
+<<<<<<< HEAD
     private Button signout_button, button4;
+=======
+    private Button signout_button;
+>>>>>>> f14daac1f9e244fd3e68d55584acc772cb967a18
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,6 +29,7 @@ public class sign_main extends AppCompatActivity {
             }
         });
 
+<<<<<<< HEAD
         button4=findViewById(R.id.button4);
         button4.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -33,5 +38,7 @@ public class sign_main extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+=======
+>>>>>>> f14daac1f9e244fd3e68d55584acc772cb967a18
     }
 }
