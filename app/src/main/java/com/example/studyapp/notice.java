@@ -51,3 +51,4 @@ public class notice extends AppCompatActivity {
         });
     }
 }
+//수정
