@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+=======
+<<<<<<< HEAD
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+=======
+<<<<<<< HEAD
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+=======
+<<<<<<< HEAD
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+=======
+>>>>>>> d2c78985a64aa9d44a1b5dd23458f9aa606664ae
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Studycafe-App" vcs="Git" />
+>>>>>>> f14daac1f9e244fd3e68d55584acc772cb967a18
+>>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
+>>>>>>> 55268d72e58c78835510d2d83c387dad8c0c9be9
   </component>
 </project>

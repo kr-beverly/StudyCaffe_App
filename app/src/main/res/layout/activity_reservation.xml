@@ -8,8 +8,11 @@
 
     //실행확인 위한 예시이므로 추후에 삭제 예정
 
+<<<<<<< HEAD
     //예약 페이지에서 메인으로 넘어가기 위한 버튼
 
+=======
+>>>>>>> 55268d72e58c78835510d2d83c387dad8c0c9be9
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
@@ -34,6 +37,7 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.008" />
+<<<<<<< HEAD
 
     <Button
         android:id="@+id/btn_seat_1"
@@ -85,4 +89,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn_seat_4" />
 
+=======
+>>>>>>> 55268d72e58c78835510d2d83c387dad8c0c9be9
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -23,6 +23,8 @@
     <string name="action_voucher">이용권</string>
     <string name="action_notice">게시판</string>
 
+    <string name="action_qna">문의</string>
+    <string name="action_announ">공지사항</string>
 
     <string name="action_voucher_day">개인일일이용권</string>
     <string name="action_voucher_time">개인시간이용권</string>

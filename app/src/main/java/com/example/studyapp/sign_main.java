@@ -9,7 +9,8 @@ import android.widget.Button;
 
 public class sign_main extends AppCompatActivity {
 
-    private Button signout_button;
+    private Button signout_button, button4;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,5 +26,13 @@ public class sign_main extends AppCompatActivity {
             }
         });
 
+        button4=findViewById(R.id.button4);
+        button4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(sign_main.this, notice.class);
+                startActivity(intent);
+            }
+        });
     }
 }

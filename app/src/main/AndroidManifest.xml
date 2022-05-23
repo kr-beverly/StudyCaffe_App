@@ -10,13 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StudyApp">
         <activity
+            android:name=".register"
+            android:exported="false" />
+        <activity
+            android:name=".notice"
+            android:exported="false" />
+        <activity
             android:name=".signin_form"
             android:exported="false" />
         <activity
             android:name=".sign_main"
             android:exported="false" />
-
-
         <activity
             android:name=".Reservation"
             android:exported="false" />
@@ -32,10 +36,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name="vouchers" />
 
         <activity android:name=".seat_popup"
             android:theme="@android:style/Theme.Dialog"/>
     </application>
 
+=======
+        <activity android:name=".vouchers" /></application>
+>>>>>>> 55268d72e58c78835510d2d83c387dad8c0c9be9
 </manifest>
