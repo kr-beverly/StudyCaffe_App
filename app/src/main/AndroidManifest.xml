@@ -33,6 +33,9 @@
             </intent-filter>
         </activity>
         <activity android:name="vouchers" />
+
+        <activity android:name=".seat_popup"
+            android:theme="@android:style/Theme.Dialog"/>
     </application>
 
 </manifest>
