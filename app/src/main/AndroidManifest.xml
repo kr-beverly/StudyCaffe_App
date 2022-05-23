@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StudyApp">
         <activity
+            android:name=".register"
+            android:exported="false" />
+        <activity
             android:name=".notice"
             android:exported="false" />
         <activity
@@ -35,4 +38,5 @@
         </activity>
         <activity android:name=".vouchers" />
     </application>
+
 </manifest>
