@@ -3,7 +3,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-<<<<<<< HEAD
     <LinearLayout
         android:layout_width="match_parent"
         android:orientation="vertical"
@@ -27,12 +26,10 @@
             />
 
     </LinearLayout>
-=======
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="30sp"
         android:text="질문 페이지입니다"
    />
->>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
 </FrameLayout>

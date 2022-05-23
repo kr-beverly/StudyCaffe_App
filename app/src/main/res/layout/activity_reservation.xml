@@ -7,33 +7,7 @@
     tools:context=".Reservation">
 
     //실행확인 위한 예시이므로 추후에 삭제 예정
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="42dp">
-
-        //예약 페이지에서 메인으로 넘어가기 위한 버튼
-
-        <Button
-            android:id="@+id/btn_resevmovehome"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:baselineAligned="false"
-            android:text="Home"
-            app:icon="?attr/homeAsUpIndicator"
-            tools:layout_editor_absoluteX="299dp"
-            tools:layout_editor_absoluteY="2dp" />
-
-    </LinearLayout>
-
-=======
->>>>>>> f14daac1f9e244fd3e68d55584acc772cb967a18
->>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -46,11 +20,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.191" />
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
     //예약 페이지에서 메인으로 넘어가기 위한 버튼
     <Button
         android:id="@+id/btn_resevmovehome"
@@ -63,9 +32,4 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.008" />
-
-<<<<<<< HEAD
-=======
->>>>>>> f14daac1f9e244fd3e68d55584acc772cb967a18
->>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
 </androidx.constraintlayout.widget.ConstraintLayout>

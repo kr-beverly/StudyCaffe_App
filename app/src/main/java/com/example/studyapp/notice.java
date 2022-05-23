@@ -17,27 +17,16 @@ public class notice extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_notice);
 
-<<<<<<< HEAD
         qna = (Button) findViewById(R.id.btn_qna);
         announ = (Button) findViewById(R.id.btn_announ);
-=======
-        qna = (Button)findViewById(R.id.btn_qna);
-        announ = (Button)findViewById(R.id.btn_announ);
->>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
 
         qna.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
-<<<<<<< HEAD
                 QnA fragment1 = new QnA();
                 transaction.replace(R.id.frame, fragment1);
                 transaction.commit(); //새로고침 저장(?)
-=======
-                    QnA fragment1 = new QnA();
-                    transaction.replace(R.id.frame, fragment1);
-                    transaction.commit(); //새로고침 저장(?)
->>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
             }
         });
 
@@ -51,12 +40,10 @@ public class notice extends AppCompatActivity {
             }
         });
 
-<<<<<<< HEAD
         btn_notice_home = findViewById(R.id.btn_notice_home);
-=======
+
         //버튼 연결
         btn_notice_home=findViewById(R.id.btn_notice_home);
->>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
         btn_notice_home.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -66,8 +53,3 @@ public class notice extends AppCompatActivity {
         });
     }
 }
-<<<<<<< HEAD
-
-=======
-//수정
->>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
