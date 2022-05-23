@@ -10,17 +10,34 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StudyApp">
         <activity
+<<<<<<< HEAD
             android:name=".register"
             android:exported="false" />
         <activity
             android:name=".notice"
             android:exported="false" />
         <activity
+=======
+<<<<<<< HEAD
+            android:name=".notice"
+            android:exported="false" />
+        <activity
+=======
+>>>>>>> f14daac1f9e244fd3e68d55584acc772cb967a18
+>>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
             android:name=".signin_form"
             android:exported="false" />
         <activity
             android:name=".sign_main"
             android:exported="false" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> f14daac1f9e244fd3e68d55584acc772cb967a18
+>>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
         <activity
             android:name=".Reservation"
             android:exported="false" />
@@ -36,7 +53,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name=".vouchers" />
+=======
+<<<<<<< HEAD
+        <activity android:name=".vouchers" />
+=======
+        <activity android:name="vouchers" />
+>>>>>>> f14daac1f9e244fd3e68d55584acc772cb967a18
+>>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
     </application>
 
 </manifest>

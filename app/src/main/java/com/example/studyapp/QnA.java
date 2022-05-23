@@ -1,10 +1,14 @@
 package com.example.studyapp;
 
+<<<<<<< HEAD
 import android.content.Intent;
+=======
+>>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+<<<<<<< HEAD
 import android.widget.Button;
 
 import androidx.annotation.NonNull;
@@ -31,6 +35,17 @@ public class QnA extends Fragment {
      */
 
     public QnA() {
+=======
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
+
+public class QnA extends Fragment {
+
+    public QnA() {
+
+>>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
     }
 
     @Nullable
@@ -39,5 +54,8 @@ public class QnA extends Fragment {
         return inflater.inflate(R.layout.qna, container, false);
     }
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 0a9ca7397e54370972932b0043b797dbbd664143
