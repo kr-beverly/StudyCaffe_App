@@ -20,6 +20,7 @@ public class notice extends AppCompatActivity {
         qna = (Button) findViewById(R.id.btn_qna);
         announ = (Button) findViewById(R.id.btn_announ);
 
+        //qna
         qna.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -30,6 +31,7 @@ public class notice extends AppCompatActivity {
             }
         });
 
+        //announ
         announ.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

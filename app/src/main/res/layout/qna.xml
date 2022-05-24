@@ -24,12 +24,5 @@
             android:textColor="#FFFFFF"
             android:text="새 글 작성하기"
             />
-
     </LinearLayout>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="30sp"
-        android:text="질문 페이지입니다"
-   />
 </FrameLayout>

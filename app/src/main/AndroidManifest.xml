@@ -32,18 +32,13 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<<<<<<< HEAD
-        <activity android:name="vouchers" />
-
+        <activity android:name=".vouchers"/>
+       <!--<activity android:name="vouchers" />-->
         <activity android:name=".seat_popup"
             android:theme="@android:style/Theme.Dialog"/>
     </application>
 
-=======
-        <activity android:name=".vouchers" /></application>
->>>>>>> 55268d72e58c78835510d2d83c387dad8c0c9be9
 </manifest>

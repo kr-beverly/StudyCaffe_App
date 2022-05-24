@@ -73,10 +73,6 @@ public class vouchers extends AppCompatActivity {
                 gr_voucher_group4.setVisibility(View.INVISIBLE);
                 gr_voucher_group6.setVisibility(View.VISIBLE);
             }
-
         });
-
-
-
     }
 }
